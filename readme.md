@@ -28,7 +28,7 @@ Things covered in this course include:
 
 ## Getting Started
 
-The course revolves around the [course dashboard](http://prezi.com/adnfktg98mli/?utm_campaign=share&utm_medium=copy&rc=ex0share). This is an interactive presentation that contains the material you will be learning, the exercises to help cement that learning and the suggested workflow to go through the exercises.
+The course revolves around the [course dashboard](http://prezi.com/79do8rjghbbm/?utm_campaign=share&utm_medium=copy&rc=ex0share). This is an interactive presentation that contains the material you will be learning, the exercises to help cement that learning and the suggested workflow to go through the exercises.
 
 This repository contains exercises to compliment the presentation material, which you can work through at your own pace. Once you've completed the presentation and these exercises, you can consider the course completed! If you need more material, check the [final project](project/readme.md).
 
@@ -40,7 +40,7 @@ Before getting started, you may need to [setup your environment](environment.md)
 
 ### Dashboard
 
-As mentioned above, the [course dashboard](http://prezi.com/adnfktg98mli/?utm_campaign=share&utm_medium=copy&rc=ex0share) contains the outline for the material for the course. It prescribes all of the things to read and do and the order to do them in.
+As mentioned above, the [course dashboard](http://prezi.com/79do8rjghbbm/?utm_campaign=share&utm_medium=copy&rc=ex0share) contains the outline for the material for the course. It prescribes all of the things to read and do and the order to do them in.
 
 You should use the dashboard to guide you through the course.
 
